@@ -42,10 +42,10 @@ chmod +x update_cleanup.sh
 ```
 ---
 
-## Running the Script Afterwards (For Beginners only)
 
-### Once the repository is cloned, you don’t need to run Git commands again.
-### Simply navigate to the project folder and run:
+## Running the Script Afterwards (For Beginners only)
+- Once the repository is cloned, you don’t need to run Git commands again.
+- Simply navigate to the project folder and run:
 ```bash
 cd ~/linux-cleanup-script
 ./update_cleanup.sh
