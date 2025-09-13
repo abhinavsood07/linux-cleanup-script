@@ -55,8 +55,6 @@ cd ~/linux-cleanup-script
 
 Here’s the script running on Ubuntu/Debian:
 
-
-![Linux Cleanup Script Demo] 
 <img width="1276" height="1069" alt="screenshot" src="https://github.com/user-attachments/assets/9c3fed70-d115-430c-a45b-58a91fda69cd" />
 
 
