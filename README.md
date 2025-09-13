@@ -36,6 +36,20 @@ chmod +x update_cleanup.sh
 ./update_cleanup.sh
 
 
-You may need to enter your password for system updates.
+# You may need to enter your password for system updates.
 
-The script will automatically perform system update and cleanup tasks.
+# The script will automatically perform system update and cleanup tasks.
+
+
+---
+
+
+# Running the Script Afterwards (For Beginners only)
+
+# Once the repository is cloned, you don’t need to run Git commands again.
+# Simply navigate to the project folder and run:
+
+cd ~/linux-cleanup-script
+./update_cleanup.sh
+
+
