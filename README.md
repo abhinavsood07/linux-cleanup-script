@@ -13,10 +13,29 @@ A simple Bash script to automate basic Linux system maintenance, including syste
 - Logs all actions with timestamps
 
 ---
-
 ## Usage
 
-1. **Download the repository**
+Follow these steps to download and run the script:
+
+###  Download the repository using Git
 ```bash
+# Install Git if you don't have it
+sudo apt update
+sudo apt install git -y
+
+# Clone the repository
 git clone https://github.com/abhinavsood07/linux-cleanup-script.git
+
+# Go into the project folder
 cd linux-cleanup-script
+
+# Make the script executable
+chmod +x update_cleanup.sh
+
+# Run the script
+./update_cleanup.sh
+
+
+You may need to enter your password for system updates.
+
+The script will automatically perform system update and cleanup tasks.
