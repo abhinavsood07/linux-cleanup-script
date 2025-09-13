@@ -39,8 +39,8 @@ chmod +x update_cleanup.sh
 # You may need to enter your password for system updates.
 
 # The script will automatically perform system update and cleanup tasks.
-
 ```
+---
 
 ## Running the Script Afterwards (For Beginners only)
 
